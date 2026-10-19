@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Checkout_Tanpa_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>959d73cc-9fea-402b-bb7a-84fd9ba8c2fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login_Invalid_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03cbff10-5d56-4c30-bb49-120b2f0cbfe8</testCaseGuid>
+</TestCaseEntity>

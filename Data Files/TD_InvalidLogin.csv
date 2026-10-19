@@ -1,0 +1,4 @@
+username,password,expectedMessage
+wronguser,wrongpass,Invalid username or password
+j2ee,salahpass,Invalid username or password
+userkosong,,Invalid username or password
