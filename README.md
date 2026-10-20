@@ -17,7 +17,7 @@ menggunakan Katalon Studio dengan Hybrid Mode (Object Repository manual + script
 1. Install Katalon Studio dan Google Chrome.
 2. Clone repo: `git clone https://github.com/yayanhakiki/katalon-petstore-web.git`
 3. Buka folder project lewat Katalon Studio (File > Open Project).
-4. Cek **Profiles > default**, isi `yayanh` dan `yayanh`.
+4. Cek **Profiles > default**, isi username `yayanh` dan password `yayanh`.
 5. Buka `Test Suites/TS_Petstore_Regression`, lalu klik **Run > Chrome**.
 6. Report ada di folder `Reports/` dan contoh hasil export di `Reports-Export/`.
 
